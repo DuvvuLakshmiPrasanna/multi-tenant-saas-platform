@@ -8,10 +8,6 @@ Author: Lakshmi Prasanna Duvvu
 
 Project: Build Multi-Tenant SaaS Platform with Project & Task Management (Mandatory Task)
 
-Deadline: 3 Jan 2026, 04:59 PM
-
-Time Remaining: 1d (as of last update)
-
 ## Overview
 
 This repository contains a dockerized, multi-tenant SaaS application implementing project and task management. The system demonstrates tenant isolation, role-based access, JWT auth, containerized deployment, automatic DB migrations, and seed data required for automated evaluation.
@@ -168,5 +164,3 @@ Partnr © 2025-26
 About Us | Contact Us | Privacy Policy | Terms and Conditions
 
 Report Issue: open an issue on the GitHub repository
-
-If you'd like me to insert the demo video link, embed images, or update `submission.json` contents, tell me what to add and I'll patch the file.
